@@ -3,7 +3,7 @@ Phonegap Swipable / Drag Menu using Materialize css.
 
 Naviagation Drawer :
 
-Demo : www.querynext.com/sample/menu/index.html
+Demo : www.querynext.com/samples/menu/index.html
 
 recommended to view above url on mobile/tab device.
 
